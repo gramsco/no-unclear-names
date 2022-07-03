@@ -1,5 +1,8 @@
 {
     "name": "eslint-plugin-no-unclear-names",
     "version": "1.0.0",
-    "main": "index.js"
+    "main": "index.js",
+    "keywords": [],
+    "author": "gramsco",
+    "license": "ISC"
 }
